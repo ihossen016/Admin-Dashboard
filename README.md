@@ -1,6 +1,6 @@
 # Project Name
 
-Frontend Template
+Admin Dashboard
 
 ## After Cloning
 
