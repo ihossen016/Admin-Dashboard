@@ -101,16 +101,18 @@ const Sidebar = () => {
                                 justifyContent="center"
                                 alignItems="center"
                             >
-                                <img
-                                    src="../../assets/ismail.png"
-                                    alt="profile-user"
-                                    width="100px"
-                                    height="100px"
-                                    style={{
-                                        cursor: "pointer",
-                                        borderRadius: "50%",
-                                    }}
-                                />
+                                {
+                                    <img
+                                        src="../../assets/ismail.png"
+                                        alt="profile-user"
+                                        width="100px"
+                                        height="100px"
+                                        style={{
+                                            cursor: "pointer",
+                                            borderRadius: "50%",
+                                        }}
+                                    />
+                                }
                             </Box>
                             <Box textAlign="center">
                                 <Typography
