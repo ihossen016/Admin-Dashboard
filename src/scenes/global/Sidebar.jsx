@@ -102,7 +102,7 @@ const Sidebar = () => {
                                 alignItems="center"
                             >
                                 <img
-                                    src="./ismail.png"
+                                    src="../../assets/ismail.png"
                                     alt="profile-user"
                                     width="100px"
                                     height="100px"
